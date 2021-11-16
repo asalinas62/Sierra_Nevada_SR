@@ -1,0 +1,6 @@
+file name: smpl_sensor_0_1503011749
+sampling period (usec): 3906.000000
+sampling gain: 0
+sampling polarity: 0
+1st sample timestamp: 01-03-2015 17:49:30.794 UTC
+number of samples: 921600
